@@ -1,0 +1,9 @@
+# Gradle build
+.gradle/
+build/
+out/
+
+# Wrapper
+!gradlew
+!gradlew.bat
+gradle/wrapper/gradle-wrapper.jar
